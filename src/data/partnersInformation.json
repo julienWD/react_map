@@ -1,0 +1,51 @@
+[{
+	"title": "IKEA",
+	"description": "Vores kunder får en billig hjemtransport, hvilket gør deres køb hos IKEA billigere. Mere end 12.000 udlejninger alene det sidste år igennem vores 3 afdelinger taler deres eget sprog - vi er glade for vores samarbejde og det er vores kunder også.",
+	"logo": "./images/about/partner/ikea.png",
+	"image": "ikea_big.jpg"
+}, {
+	"title": "Pelican",
+	"description": "Freetrailer og Pelican’s samarbejde lå lige til højrebenet. Pelican har pladsen og med Freetrailer også transportmidlet mellem hjem og opbevaring. Det samarbejde har folk fået øjnene op for. Siden 2010 er Pelican gået fra at have 9 trailere til 27 i 2015. I samme periode er udlejningstallet femdoblet. Transporten til og fra opbevaringen bliver gjort nemmere og hurtigere i samarbejdet med Freetrailer ApS.",
+	"logo": "./images/about/partner/pelican.png",
+	"image": "pelican_big.jpg"
+}, {
+	"title": "Silvan",
+	"description": "Før Freetrailer overtog Silvan’s trailerservice i 2010, havde Silvan 140 åbne trailere med 12.000 udlejninger årligt. I dag lyder tallet på ikke mindre end 150 flyttetrailere og 125 åbne med 94.000 udlejninger årligt. De tal taler sine klar sprog og afspejler b.la. et øget salg hos Silvan, hvor man oplever 30% mersalg på flytteprodukter. Vi har i mange år tilbudt gratis trailere til vores kunder, når de har købt byggematerialer, men Freetrailers koncept betyder, at vi også kan tilbyde kunderne at låne en flyttetrailer, når de skal flytte, som en udvidet service. Og så betyder konceptet også at administrationen bliver nemmere for vores personale.",
+	"logo": "./images/about/partner/silvan.png",
+  "image": "silvan_big.jpg"
+}, {
+	"title": "Bilka",
+	"description": "Freetrailer og Bilka indgik samarbejde i 2008. Siden da er udlejninger kun steget, og i perioden fra 2010 til 2014 blev de næsten fordoblet fra 13.000 til 24.000. Freetrailers evne til at genere en øget trafik i butikken afspejler sig i at 2/3 af dem, der har lånt en trailer hos Bilka, går ind, og handler, når de afleverer traileren. Vi har valgt at tilbyde vores kunder muligheden for at låne en gratis Freetrailer, for at gøre det nemmere for dem at komme hjem med store indkøb. Vi har testet konceptet i vores  varehus i Tilst med stor succes.",
+	"logo": "./images/about/partner/bilka.png",
+  "image": "bilka_big.jpg"
+},{
+	"title": "Stark",
+	"description": "Stark i Odense er ikke bange for forandringer - som first movers er de den første fra kæden til at se potentialet og fordelene, ved at give deres kunder mulighed for at låne en Freetrailer, når der skal bygges.",
+	"logo": "./images/about/partner/stark.png",
+	"image": "stark_big.jpg"
+}, {
+	"title": "Grillcatering",
+	"description": "Grill og Caterings afdeling i Kirke Såby er en full-service partner til arrangementer. Når Grill og Catering stolt leverer hovedingrediensen til kundernes grisefest, er de klar over at der er flere led til en succesfuld fest. Telt, stole, borde og musik er bare nogle af de ting der høre med, for ikke at nævne oprydning dagen efter - og ved at stille Freetrailere til rådighed er de behjælpelig hele vejen igennem.",
+	"logo": "./images/about/partner/grillcatering.png",
+	"image": "grillcatering_big.jpg"
+}, {
+	"title": "Kokkedal Golfklub",
+	"description": "Man behøver ikke at være en kæde for at have fokus på god kundeservice. Det er Office2Go et levende eksempel på. Freetrailer er oplagt at fragte butikkens lækre kontormøbler i, og Kokkedal Golfklub kan prale af at have over 1 udlejning om dagen året rundt.",
+	"logo": "./images/about/partner/kokkedal.png",
+  "image": "kokkedal_big.jpg"
+}, {
+	"title": "Blue Box",
+	"description": "Blue Box prøver at eliminere ordet pladsmangel med deres containers. Den største af dem kan faktisk opbevare hvad der svarer til et helt hus, og med Freetrailer kan kunderne bytte ud og hente deres ejendele på en smuttur.",
+	"logo": "./images/about/partner/bluebox.png",
+  "image": "bluebox_big.jpg"
+},{
+	"title": "Office2go",
+	"description": "Den hurtige bestilling samt muligheden for hurtigt afhentning forstærkes af Freetrailers trailerudlejningskoncept, hvilket til og forøger office2go's værdier.",
+	"logo": "./images/about/partner/office2go.png",
+	"image": "office2go_big.jpg"
+}, {
+	"title": "Power",
+	"description": "POWER er Danmarks nye elektronikkæde, og som noget af det første blev der i 2015 indgået samarbejdsaftale med Freetrailer hvor Power indtil videre stiller 12 Freetrailere til rådighed for deres kunder til gratis hjemtransport af deres køb. Power-Freetrailer samarbejdet er om end helt nyt, et stærkt og nyttegivende samarbejde med stærke bånd.",
+	"logo": "./images/about/partner/power.png",
+	"image": "power_big.jpg"
+}]

@@ -1,0 +1,63 @@
+[{
+	"title": "Før",
+	"subTitle": "Før du henter din Freetrailer",
+	"color": "blue",
+	"questions": [{
+		"title": "Hvad koster det at låne en Freetrailer?",
+		"content": "Det er <strong>gratis</strong> at låne en Freetrailer indenfor gratisperioden.",
+		"askedCount": 23
+		},{
+			"title": "Hvem må køre med traileren?",
+			"content": "De fleste danske bilister har et kørekort til kategori B, hvilket giver ret til at køre en bil på højst 3.500 kg totalvægt."
+		},{
+			"title": "Hvor stor er en Freetrailer?",
+			"content": "Har en totalvægt på 750 kg. og må laste 395 kg. Dog må enkelte af freetrailerne hos de partnere markeret med * kun laste 275 kg. For alle trailere gælder, at de må køres med almindeligt B-kørekort.",
+			"askedCount": 1
+	},{
+			"title": "Hvornår skal Freetraileren senest hentes?",
+			"content": "Når du skal hente din Freetrailer skal du hente den INDEN for 1 time fra den tid du selv har valgt - altså sat til kl. 13 skal den hentes INDEN kl. 14.  Dette er en buffer til eventuelle udfordringer du må have på din vej - kø, uheld på vejen mm.",
+			"askedCount" : 34
+	},{
+		"title": "Hvor kan jeg låne en Freetrailer?",
+		"content": "Du kan låne en Freetrailer over 100 steder i Danmark.",
+		"askedCount": 28
+	}]
+}, {
+	"title": "Når",
+	"subTitle": "Når du har din Freetrailer",
+	"color": "lblue",
+	"questions": [{
+		"title": "Må jeg låne Freetraileren ud?",
+		"content": "Nej, loven kræver, at alle brugere skal være indskrevet i lejedokumenterne.  Du kan skrive en ekstra fører på i lejedokumenterne inden lejekontrakten bliver printet.",
+		"askedCount": 20
+	}, {
+		"title": "Hvor hurtigt må jeg køre med Freetraileren?",
+		"content": "Følgende hastighedsgrænser er gældende, med mindre der lokalt er skiltet med en anden hastighed, eller hvis der er forhold, som gør det nødvendigt at sætte hastigheden ned."
+	}]
+}, {
+	"title": "Hvis",
+	"subTitle": "Hvis du ændrer noget",
+	"color": "dblue",
+	"questions": [{
+		"title": "Hvad koster tillægsydelserne?",
+		"content": "Det er altid gratis at låne lukket Freetrailer fra den ene dag til efterfølgende formiddag. Tidspunktet for afleveringen kan variere, afhængigt af hvilket afhentningssted du har valgt.",
+ 		"askedCount": 30
+	}]
+}, {
+	"title": "Efter",
+	"subTitle": "Efter levering af din Freetrailer",
+	"color": "green",
+	"questions": [{
+		"title": "Hvor kan jeg aflevere Freetraileren?",
+		"content": "Freetraileren skal altid afleveres ved afhentningsstedet.",
+		"askedCount": 29
+	}]
+}, {
+	"title": "Krav",
+	"subTitle": "Generelle betingelser",
+	"color": "yellow"
+}, {
+	"title": "Videos",
+	"subTitle": "Freetrailer Academy",
+	"color": "violet"
+}]

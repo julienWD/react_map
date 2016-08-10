@@ -1,0 +1,22 @@
+[{
+	"trailer": 23,
+	"sepId": 0,
+	"name": "Elcykel",
+  "size": "1,18 x 0,62 x 0,50 m.",
+	"image": "small.png",
+  "imageRes": "small_booking.png"
+}, {
+  "trailer": 9,
+	"sepId": 2,
+  "name": "Flyttetrailer",
+  "size": "2,55 x 1,44 x 0,35 m.",
+	"image": "tall.png",
+  "imageRes": "tall_booking.png"
+}, {
+  "trailer": 15,
+	"sepId": 1,
+	"name": "Åben trailer",
+  "size": "2,55 x 1,44 x 0,35 m.",
+		"image": "normal.png",
+  "imageRes": "normal_booking.png"
+}]

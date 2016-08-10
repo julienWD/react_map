@@ -1,0 +1,244 @@
+{
+	"departments": [{
+		"name": "Direktion",
+		"members": [{
+			"name": "Allan Sønderskov",
+			"image": "../../images/media/team/allan.png",
+			"position": "CEO & Founder",
+			"phone": "+45 27 15 46 00",
+			"email": "asd@freetrailer.dk"
+		}, {
+			"name": "Philip Filipsen",
+			"image": "../../images/media/team/philip.png",
+			"position": "CFO & COO",
+			"phone": "+45 40 90 17 85",
+			"email": "pf@freetrailer.dk"
+		}, {
+			"name": "Aksel Ambjørner",
+			"image": "../../images/media/team/aksel.png",
+			"position": "Co-Founder & Bestyrelsesformand",
+			"email": ""
+		}]
+	}, {
+		"name": "Landeansvarlige",
+		"members": [{
+			"name": "Johan Wijkander",
+			"image": "../../images/media/team/johan.png",
+			"position": "Nordic Area Manager",
+			"phone": "+46 735 35 05 93",
+			"email": "jw@freetrailer.se"
+		}, {
+			"name": "Frans Barkler",
+			"image": "../../images/media/team/frans.png",
+			"position": "Country Manager Germany",
+			"phone": "+49 1712219750",
+			"email": "fb@freetrailer.de"
+		}, {
+			"name": "Mikkel Pitzner",
+			"image": "../../images/media/team/mikkel.png",
+			"position": "Partner & CEO Freetrailer USA",
+			"email": "mp@freetrailer.dk"
+		}]
+	}, {
+		"name": "Økonomi & Administration",
+		"members": [{
+			"name": "Nicolai Filipsen",
+			"image": "../../images/media/team/nicolai.png",
+			"position": "Finance Assistant",
+			"phone": "+45 88 63 12 69",
+			"email": "nf@freetrailer.dk"
+		}, {
+			"name": "Pia Granlöf",
+			"position": "Finance Assistant Sweden",
+			"phone": "+46 760399128",
+			"email": "pgr@freetrailer.se"
+		}, {
+			"name": "Agata Wolniak",
+			"image": "../../images/media/team/agata.png",
+			"position": "Executive Assistant to CEO",
+			"phone": "+45 71 99 90 05",
+			"email": "aw@freetrailer.dk"
+		}]
+	}, {
+		"name": "Kunderelationer",
+		"members": [{
+			"name": "Julian Wilde",
+			"image": "../../images/media/team/julian.png",
+			"position": "Key Account Manager Germany",
+			"phone": "+49(0)151 143 626 52",
+			"email": "juw@freetrailer.de"
+		}, {
+			"name": "Peter Runsten",
+			"image": "../../images/media/team/peterr.png",
+			"position": "Key Account Manager Sweden",
+			"phone": "+46 735512991",
+			"email": "pr@freetrailer.se"
+		}]
+	}, {
+		"name": "Markedsføring",
+		"members": [{
+			"name": "Oscar Rütt",
+			"image": "../../images/media/team/oscarr.png",
+			"position": "Online Marketing Manager",
+			"phone": "+45 40 88 03 59",
+			"email": "or@freetrailer.dk"
+		}, {
+			"name": "Kira Kranz",
+			"image": "../../images/media/team/kira.png",
+			"position": "Marketing Manager Germany",
+			"phone": "+49 151 407 523 82",
+			"email": "kk@freetrailer.de"
+		}]
+	}, {
+		"name": "Kundeservice",
+		"members": [{
+			"name": "Kine Wingsternes",
+			"image": "../../images/media/team/kine.png",
+			"position": "Head of Customer Service",
+			"phone": "+45 88 53 77 00",
+			"email": "kw@freetrailer.dk"
+		}, {
+			"name": "Tina Darré",
+			"image": "../../images/media/team/tina.png",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 63 12 62",
+			"email": "td@freetrailer.dk"
+		}, {
+			"name": "Susanne Bern",
+			"image": "../../images/media/team/susanne.png",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 63 12 63",
+			"email": "sb@freetrailer.dk"
+		}, {
+			"name": "Mette Nielsen",
+			"image": "../../images/media/team/mette.png",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 63 12 73",
+			"email": "mn@freetrailer.dk"
+		}, {
+			"name": "Anne-Line Smith",
+			"image": "../../images/media/team/anne.png",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 63 12 75",
+			"email": "al@freetrailer.dk"
+		}, {
+			"name": "Linnèa Eklund Brøchner",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 53 77 00",
+			"email": "lb@freetrailer.se"
+		}, {
+			"name": "Carin Litzèn Karlsson",
+			"position": "Customer Service Manager",
+			"phone": "+45 88 53 77 00",
+			"email": "freetrailer.se"
+		}]
+	}, {
+		"name": "Service",
+		"members": [{
+			"name": "Bo Madsen",
+			"image": "../../images/media/team/bo.png",
+			"position": "Service Manager Fyn",
+			"phone": "+45 30 48 49 97",
+			"email": "bm@freetrailer.dk"
+		}, {
+			"name": "Christian Nissen",
+			"image": "../../images/media/team/christian.png",
+			"position": "Service Manager Jylland",
+			"phone": "+45 24 90 42 42",
+			"email": "cn@freetrailer.dk"
+		}, {
+			"name": "Patrick Gustafsson",
+			"position": "Service Manager Sweden",
+			"phone": "",
+			"email": "pg@freetrailer.se"
+		}, {
+			"name": "Stig Søeborg",
+			"image": "../../images/media/team/stig.png",
+			"position": "Service Manager Sjælland",
+			"phone": "+45 21 42 70 70",
+			"email": "ss@freetrailer.dk"
+		}, {
+			"name": "Jacek Goralczyk",
+			"position": "Service Manager Sweden",
+			"phone": "",
+			"email": "jg@freetrailer.se"
+		}]
+	}, {
+		"name": "Udvikling",
+		"members": [{
+			"name": "Lars Pedersen",
+			"image": "../../images/media/team/lars.png",
+			"position": "IT Developer",
+			"phone": "+45 25 94 41 03",
+			"email": "lp@freetrailer.dk"
+		}, {
+			"name": "Emil Hein",
+			"image": "../../images/media/team/emil.png",
+			"position": "Jr. Exploration Developer",
+			"phone": "+45 61 79 68 22",
+			"email": "eh@freetrailer.dk"
+		}, {
+			"name": "Konstantin Dichev",
+			"position": "Jr. Developer",
+			"phone": "+45 42 78 75 31",
+			"email": "kd@freetrailer.dk"
+		}, {
+			"name": "Jonas Kobæk Bjørn",
+			"image": "../../images/media/team/jonas.png",
+			"position": "Student Assistant",
+			"phone": "+45 30 62 18 33",
+			"email": "jb@freetrailer.dk"
+		}, {
+			"name": "Tobias Karlsson",
+			"image": "../../images/media/team/tobias.png",
+			"position": "Jr. Developer",
+			"phone": "+45 93 89 42 00",
+			"email": "tk@freetrailer.dk"
+		}, {
+			"name": "Mark Dencker",
+			"image": "../../images/media/team/mark.png",
+			"position": "Project Manager",
+			"phone": "+45 ?? ?? ?? ??",
+			"email": "md@freetrailer.dk"
+		}, {
+			"name": "Behnam Farrokhi",
+			"image": "../../images/media/team/behnam.png",
+			"position": "Full Stack Developer",
+			"phone": "+45 88 53 77 00",
+			"email": "bf@freetrailer.dk"
+		}, {
+			"name": "Birgit Kool",
+			"image": "../../images/media/team/birgit.png",
+			"position": "UX Designer",
+			"phone": "+45 88 53 77 00",
+			"email": "bk@freetrailer.dk"
+		}, {
+			"name": "Veselin Ivanov",
+			"image": "../../images/media/team/veselin.png",
+			"position": "Frontend Designer",
+			"phone": "+45 88 53 77 00",
+			"email": "vi@freetrailer.dk"
+		}, {
+			"name": "Raul Ionut",
+			"image": "../../images/media/team/raul.png",
+			"position": "Frontend Developer",
+			"phone": "+45 88 53 77 00",
+			"email": "ri@freetrailer.dk"
+		}]
+	}, {
+		"name": "Advisory Board",
+		"members": [{
+			"name": "Dan Takiar Petersen",
+			"image": "../../images/media/team/dan.png",
+			"position": "Managing Director, GUBI Inc.",
+			"phone": "",
+			"email": ""
+		}, {
+			"name": "Peter Fog-Petersen",
+			"image": "../../images/media/team/peter.png",
+			"position": "CEO / Regional Director, DSV Road",
+			"phone": "",
+			"email": ""
+		}]
+	}]
+}

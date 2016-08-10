@@ -1,0 +1,37 @@
+#header-container {
+  width: 100%;
+  z-index: 5;
+}
+.times-buttons {
+  line-height: 25px !important;
+}
+html [type="button"]{
+  -webkit-appearance: none !important;
+}
+div.times-buttons button{
+  line-height: 25px !important;
+  height: 25px !important;
+}
+@media screen and (max-width: 991px) {
+  #searchHeader {
+    display: none;
+  }
+}
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+  #materialIcon {
+    height: 24px !important;
+    width: 24px !important;
+    margin-top: 5px !important;
+  }
+  #pickUpDate {
+    font-size: 11px !important;
+  }
+  #returnDate {
+    font-size: 11px !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  #searchBar {
+    position: relative !important;
+  }
+}
